@@ -1,0 +1,9 @@
+{
+	"name": "dfmig-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25dd2946-35c0-4cf1-9549-fada591773d3",
+		"tenantId": "2b254d38-4afe-4d95-9df4-ee31b73e5230"
+	}
+}
